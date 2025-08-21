@@ -19,7 +19,8 @@ Designed for minimalists, coders, and desktop customizers who want dynamic, unob
 
 ## Installation
 
-You can either **use the precompiled executable** included in this repo, or **compile the source code yourself**.  
+You can either **use the precompiled executable** included in this repo, or **compile the source code yourself**.
+**Add the executable binary to your startup to start on login.**  
 
 ### Dependencies (for compilation)
 
