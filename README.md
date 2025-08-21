@@ -97,7 +97,7 @@ To run with any GIF of your choice:
 * Auto-positioning may not work correctly under **Wayland**.
 * May interfere with **GTK2 windows**.
 * Very large GIFs can cause lag or scaling artifacts.
-* Built to work best with **GNOME 48**; tested only on GNOME.
+* Built to work best with **GNOME =>45**; tested only on GNOME as of present.
 * Rounded corners require the **“Rounded Window Corners” GNOME extension**; built-in rounding is not yet implemented.
 * Extremely small GIFs may appear blurry due to scaling.
 
